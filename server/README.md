@@ -12,7 +12,6 @@
 
     - JavaScript
     - Node.js v16.17.0
-    - Sequelize
     - Swagger
 
 ### DB
