@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: 기능 개선에 도움이 되는 보고서를 작성합니다.
-title: "[BUG]"
-labels: bug
+title: ''
+labels: bug, enhancement
 assignees: ''
 
 ---
